@@ -161,7 +161,7 @@ Don't forget to add the labels for paid-only ![paid.png](/Assets/paid.png) and o
 - [Mem](https://get.mem.ai) — saves what you already know, capture new thoughts quickly, and engage in dynamic conversation.
 - [Reflect](https://reflect.app) ![paid.png](/Assets/paid.png) — improves your writing, organizes your thoughts, and acts as your intellectual thought partner.
 - [Taskade AI](https://www.taskade.com/ai/app) ![paid.png](/Assets/paid.png) — generates task lists, mind maps, meeting agendas, and custom workflows.
-- [timeMaster](https://www.timemaster.ai) — detects what you are working on, categorizes your activities, tags projects, and writes time logs.
+- [timeMaster](https://www.timemaster.ai) — detects what you are working on, categorizes your activities, and writes time logs.
 
 ## Writing
 
