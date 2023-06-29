@@ -47,7 +47,7 @@ Don't forget to add the labels for paid-only ![paid.png](/Assets/paid.png) and o
 - [Fireflies.ai](https://fireflies.ai) — automates your meeting notes.
 - [Hint](https://hints.so) ![paid.png](/Assets/paid.png) — updates your CRM with voice or text via SMS or WhatsApp.
 - [tl;dv](https://tldv.io) — transcribes & summarizes your calls with customers, prospects, and your team.
-- [Vizologi](https://vizologi.com) ![paid.png](/Assets/paid.png) — answers all your business questions about companies, markets, and contextual business intelligence.
+- [Vizologi](https://vizologi.com) ![paid.png](/Assets/paid.png) — answers all your business questions about companies, and markets.
 
 ## Career
 
@@ -58,14 +58,14 @@ Don't forget to add the labels for paid-only ![paid.png](/Assets/paid.png) and o
 
 ## Chat
 
-- [Andi](https://andisearch.com) — uses a new type of search engine powered by generative AI combined with live data and semantic search technology.
+- [Andi](https://andisearch.com) — uses a new type of search engine powered by generative AI, live data and semantic search technology.
 - [AgentGPT](https://agentgpt.reworkd.ai) ![open.png](/Assets/open.png) — assembles, configures, and deploys autonomous AI Agents in your browser.
 - [ChatABC](https://chatabc.ai) — betters ChatGPT for you & your team.
 - [ChatGPT](https://chat.openai.com) — follows an instruction in a prompt and provides a detailed response.
 - [Godmode](https://godmode.space) — accesses the powers of autoGPT and babyAGI.
 - [Perplexity](https://www.perplexity.ai) — unlocks the power of knowledge with information discovery and sharing.
 - [Shop with AI](https://goshopwith.ai/chat) — shops with your dream celebrity to find just the thing.
-- [Voilà](https://www.getvoila.ai/pricing) ![paid.png](/Assets/paid.png) — improves your writing, gets answers to all your questions, drafts high-quality content and responds to emails.
+- [Voilà](https://www.getvoila.ai/pricing) ![paid.png](/Assets/paid.png) — improves your writing, gets answers to your questions, and responds to emails.
 
 ## Data
 
@@ -73,7 +73,7 @@ Don't forget to add the labels for paid-only ![paid.png](/Assets/paid.png) and o
 
 ## Finance
 
-- [AlphaWatch AI](https://www.alphawatch.ai) — answers any broad question on industry, narratives, stock prices, and company trajectories instantly.
+- [AlphaWatch AI](https://www.alphawatch.ai) — answers any broad question on industry, stock prices, and company trajectories instantly.
 - [FinChat](https://finchat.io) — provides verified data on public companies.
 
 ## Game
@@ -90,7 +90,7 @@ Don't forget to add the labels for paid-only ![paid.png](/Assets/paid.png) and o
 - [Adobe Firefly](https://firefly.adobe.com/generate/images) — generates images from a detailed text description.
 - [DALL-E 2](https://labs.openai.com) — creates realistic images and art from a description in natural language.
 - [ImagineMe](https://imagineme.ai) ![paid.png](/Assets/paid.png) — generates stunning AI images of yourself with one line of text.
-- [MemeCam](https://www.memecam.io) — combines image recognition and caption generation for an effortless and fun meme-creating experience.
+- [MemeCam](https://www.memecam.io) — combines image recognition and caption generation for a fun meme-creating experience.
 - [Microsoft Designer](https://designer.microsoft.com) — creates stunning designs lightning-fast with AI.
 - [Midjourney](https://www.midjourney.com/home/) ![paid.png](/Assets/paid.png) — generates images from natural language descriptions.
 - [Quick QR Art](https://quickqr.art) — creates captivating QR code art to enhance your brand's identity.
@@ -134,14 +134,14 @@ Don't forget to add the labels for paid-only ![paid.png](/Assets/paid.png) and o
 
 ## Video
 
-- [D-ID Creative Reality Studio](https://studio.d-id.com) ![paid.png](/Assets/paid.png) — creates professional videos using just a still image with text or audio powered by AI.
+- [D-ID Creative Reality Studio](https://studio.d-id.com) ![paid.png](/Assets/paid.png) — creates professional videos using a still image with text or audio.
 - [Descript](https://www.descript.com) — makes video recording, editing, and collaboration as easy as docs and slides.
 - [Gen-2](https://runwayml.com/ai-magic-tools/gen-2/) ![paid.png](/Assets/paid.png) — creates videos in any style you can imagine with text-to-video generation.
 - [InVideo](https://invideo.io/) — creates publish-worthy videos on day one.
 - [Kaiber](https://kaiber.ai) ![paid.png](/Assets/paid.png) — develops immersive interactive experiences and tells stories in a whole new way.
 - [Koe Recast](https://koe.ai) — transforms your voice using AI.
 - [Pictory](https://pictory.ai) ![paid.png](/Assets/paid.png) — creates short, highly-sharable branded videos from your long form content.
-- [Renderforest](https://www.renderforest.com/#Videos) ![paid.png](/Assets/paid.png) — creates stunning videos, animations, branding, mockups, presentations, graphics, and professional websites.
+- [Renderforest](https://www.renderforest.com/#Videos) ![paid.png](/Assets/paid.png) — creates stunning videos, animations, branding, mockups, presentations, and more.
 - [Synthesia](https://www.synthesia.io) ![paid.png](/Assets/paid.png) — creates professional videos in 15 minutes.
 - [Wonder Studio](https://wonderdynamics.com/#product) — animates, lights and composes CG characters into a live-action scene.
 
@@ -161,7 +161,7 @@ Don't forget to add the labels for paid-only ![paid.png](/Assets/paid.png) and o
 - [Mem](https://get.mem.ai) — saves what you already know, capture new thoughts quickly, and engage in dynamic conversation.
 - [Reflect](https://reflect.app) ![paid.png](/Assets/paid.png) — improves your writing, organizes your thoughts, and acts as your intellectual thought partner.
 - [Taskade AI](https://www.taskade.com/ai/app) ![paid.png](/Assets/paid.png) — generates task lists, mind maps, meeting agendas, and custom workflows.
-- [timeMaster](https://www.timemaster.ai) — detects what you are working on, categorizes your activities, tags projects, and writes time logs on your behalf.
+- [timeMaster](https://www.timemaster.ai) — detects what you are working on, categorizes your activities, tags projects, and writes time logs.
 
 ## Writing
 
@@ -175,4 +175,4 @@ Don't forget to add the labels for paid-only ![paid.png](/Assets/paid.png) and o
 - [Prepal](https://paperpal.com) — boosts your chances of success with real-time, subject-specific language suggestions.
 - [QuillBot](https://quillbot.com) — rephrases any text in a variety of ways.
 - [Wordtune](https://www.wordtune.com) — helps you put your own thoughts into written words.
-- [Writesonic](https://writesonic.com) — creates SEO-optimized and plagiarism-free content for your blogs, ads, emails, and website 10X faster.
+- [Writesonic](https://writesonic.com) — creates SEO-optimized and plagiarism-free content for your blogs, ads, emails, and website.
