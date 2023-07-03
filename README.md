@@ -2,7 +2,7 @@
 
 # Contribution
 
-If you know of some great AI tools or plugins or want to suggest a change, send a Pull Request with respect to our [Code of Conduct](/CODE_OF_CONDUCT.md)!
+If you know of some great AI tools or want to suggest a change, send a Pull Request with respect to our [Code of Conduct](/CODE_OF_CONDUCT.md)!
 
 Don't forget to add the labels for paid-only ![paid.png](/Assets/paid.png) and open source ![open.png](/Assets/open.png) tools.
 
@@ -39,6 +39,7 @@ Don't forget to add the labels for paid-only ![paid.png](/Assets/paid.png) and o
 
 - [FakeYou](https://fakeyou.com) ![paid.png](/Assets/paid.png) — generates audio or videos of your favorite characters saying anything you want.
 - [Krisp](https://krisp.ai/pricing/) — improves the productivity of online meetings with AI-powered Voice Clarity and Meeting Assistant.
+- [LOVO](https://lovo.ai) — gives you an unparalleled voiceover production experience powered by realistic AI Voices.
 - [Whisper](https://github.com/openai/whisper) ![open.png](/Assets/open.png) — performs multilingual speech recognition, speech translation, and language identification.
 
 ## Business
@@ -69,6 +70,7 @@ Don't forget to add the labels for paid-only ![paid.png](/Assets/paid.png) and o
 
 ## Data
 
+- [ChatCSV](https://www.chatcsv.co) — includes features you need to assist you in any data query.
 - [Rows](https://www.rows.com/) — analyzes, summarizes and transforms data.
 
 ## Finance
@@ -122,6 +124,7 @@ Don't forget to add the labels for paid-only ![paid.png](/Assets/paid.png) and o
 ## Research
 
 - [ChatPDF](https://www.chatpdf.com) — comprehends textbooks, handouts, and presentations effortlessly.
+- [Consensus](https://consensus.app) — makes finding rigorous answers simple and easy.
 - [LightPDF](https://lightpdf.com/chatdoc) — chats with any documents online for free.
 - [RoseAI](https://rose.ai) — eliminates hours wasted finding, cleaning, visualizing and transforming data.
 - [Silatus](https://app.silatus.com/) — conducts research, pulling high-quality content from across the Internet.
