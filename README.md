@@ -95,6 +95,7 @@ Don't forget to add the labels for paid-only ![paid.png](/Assets/paid.png) and o
 - [MemeCam](https://www.memecam.io) — combines image recognition and caption generation for a fun meme-creating experience.
 - [Microsoft Designer](https://designer.microsoft.com) — creates stunning designs lightning-fast with AI.
 - [Midjourney](https://www.midjourney.com/home/) ![paid.png](/Assets/paid.png) — generates images from natural language descriptions.
+- [Photo AI](https://photoai.com) ![paid.png](/Assets/paid.png) — creates AI models (of yourself!) and does photo shoots in different poses.
 - [Quick QR Art](https://quickqr.art) — creates captivating QR code art to enhance your brand's identity.
 - [Removal AI](https://removal.ai) — removes background from image.
 - [Stable Diffusion](https://github.com/Stability-AI/stablediffusion) ![open.png](/Assets/open.png) — generates detailed images conditioned on text descriptions.
