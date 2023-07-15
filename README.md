@@ -61,6 +61,7 @@ Don't forget to add the labels for paid-only ![paid.png](/Assets/paid.png) and o
 
 - [Andi](https://andisearch.com) — uses a new type of search engine powered by generative AI, live data and semantic search technology.
 - [AgentGPT](https://agentgpt.reworkd.ai) ![open.png](/Assets/open.png) — assembles, configures, and deploys autonomous AI Agents in your browser.
+- [Bard](https://bard.google.com) — supercharges your imagination, boosts productivity, and brings ideas to life.
 - [ChatABC](https://chatabc.ai) — betters ChatGPT for you & your team.
 - [ChatGPT](https://chat.openai.com) — follows an instruction in a prompt and provides a detailed response.
 - [Godmode](https://godmode.space) — accesses the powers of autoGPT and babyAGI.
